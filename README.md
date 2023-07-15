@@ -1,6 +1,7 @@
 ### SOAP Server Example
 
-스프링부트 SOAP Server 공식예제
+스프링부트 SOAP Server 공식예제 -
+https://spring.io/guides/gs/producing-web-service/
 
 ##### WSDL 확인
 http://localhost:8080/ws/countries.wsdl
